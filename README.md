@@ -15,7 +15,7 @@ It also hosts sample AI data / model files in HDF5.
 
   HDF5 AI filter can kick in to sanitize your data in scalable manner
   when you archive data in HDF5.
-  It can save a lot of storage.
+  It can save a lot of storage by storing only models, not real data.
 
 ## Reference
 * [Shrink floating point format to accelerate DNN training](https://www.hpcwire.com/2019/04/15/bsc-researchers-shrink-floating-point-formats-to-accelerate-deep-neural-network-training/) 

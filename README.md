@@ -19,4 +19,4 @@ It also hosts sample AI data / model files in HDF5.
 
 ## Reference
 * [Shrink floating point format to accelerate DNN training](https://www.hpcwire.com/2019/04/15/bsc-researchers-shrink-floating-point-formats-to-accelerate-deep-neural-network-training/) 
-* [h5cpp] (http://h5cpp.org/)
+* [h5cpp](http://h5cpp.org/)

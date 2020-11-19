@@ -5,6 +5,7 @@ It also hosts sample AI data / model files in HDF5.
 
 ## Data
 * [Cat vs. Non-Cat](https://www.floydhub.com/deeplearningai/datasets/cat-vs-noncat/1/train_catvnoncat.h5)
+* [Core ML Specification](https://apple.github.io/coremltools/coremlspecification/)
 
 ## Source Code
 * [Deep Learning for Climiate Modeling Data](https://github.com/azrael417/ClimDeepLearn): specifically, [data_helpers.py](https://github.com/azrael417/ClimDeepLearn/blob/distributed/semanticsegm/utils/data_helpers.py)

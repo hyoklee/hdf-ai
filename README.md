@@ -1,6 +1,6 @@
 # HDF-AI Tools and Information Center
 
-This is a central hub for exchanging AI solutions HDF5.
+This is a central hub for exchanging AI solutions in HDF5.
 It also hosts sample AI data / model files in HDF5.
 
 ## Data

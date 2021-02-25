@@ -14,9 +14,9 @@ It also hosts sample AI data / model files in HDF5.
 
   Filtering Bigdata with AI is a scalable solution.
 
-  HDF5 AI filter can kick in to sanitize your data in scalable manner
+  HDF5 AI filter can automatically sanitize your data in a scalable manner
   when you archive data in HDF5.
-  It can save a lot of storage by storing only models, not real data.
+  It can save a lot of space by storing only models, not real data.
 
 ## Reference
 * [Shrink floating point format to accelerate DNN training](https://www.hpcwire.com/2019/04/15/bsc-researchers-shrink-floating-point-formats-to-accelerate-deep-neural-network-training/) 

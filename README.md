@@ -7,7 +7,7 @@ It also hosts sample AI data / model files in HDF5.
 * [Cat vs. Non-Cat](https://www.floydhub.com/deeplearningai/datasets/cat-vs-noncat/1/train_catvnoncat.h5)
 * [Core ML Specification](https://apple.github.io/coremltools/coremlspecification/)
 * [Joke Generator](https://info.microsoft.com/ww-Thankyou-ADeepDiveintoServerlessApplications.html) (Jump to 14:40 in the video.)
-** [textgenrnn_weights.hdf5](https://github.com/minimaxir/textgenrnn/blob/master/textgenrnn/textgenrnn_weights.hdf5)
+  * [textgenrnn_weights.hdf5](https://github.com/minimaxir/textgenrnn/blob/master/textgenrnn/textgenrnn_weights.hdf5)
 
 ## Source Code
 * [Deep Learning for Climiate Modeling Data](https://github.com/azrael417/ClimDeepLearn): specifically, [data_helpers.py](https://github.com/azrael417/ClimDeepLearn/blob/distributed/semanticsegm/utils/data_helpers.py)

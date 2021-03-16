@@ -11,7 +11,7 @@ It also hosts sample AI data / model files in HDF5.
 
 ## Source Code
 * [Deep Learning for Climiate Modeling Data](https://github.com/azrael417/ClimDeepLearn): specifically, [data_helpers.py](https://github.com/azrael417/ClimDeepLearn/blob/distributed/semanticsegm/utils/data_helpers.py)
-* [Kubeflow HOW-TO] (https://towardsdatascience.com/kubeflow-how-to-install-and-launch-kubeflow-on-your-local-machine-e0d7b4f7508f)
+* [Kubeflow HOW-TO](https://towardsdatascience.com/kubeflow-how-to-install-and-launch-kubeflow-on-your-local-machine-e0d7b4f7508f)
 
 ## HDF5 AI Filter
 

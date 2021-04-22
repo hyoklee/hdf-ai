@@ -23,7 +23,7 @@ It also hosts sample AI data / model files in HDF5.
   HDF5 AI Filter can 
   * store everything in hierarchy including algorithms to use and learned models.
   * link to the raw data for provenance.
-  * set a time to remove raw data and a accuracy to prune models.
+  * set a time to remove raw data and a desired accuracy threshold to prune models.
   * run several ML algorithms in parallel according to the pre-set hierarchy.
 
 ## Reference

@@ -15,11 +15,16 @@ It also hosts sample AI data / model files in HDF5.
 
 ## HDF5 AI Filter
 
-  Filtering Bigdata with AI is a scalable solution.
+  Filtering Bigdata with AI is a solution to reduce the burden of managing a large amount of training and testing data.
 
-  HDF5 AI filter can automatically sanitize your data in a scalable manner
-  when you archive data in HDF5.
+  HDF5 AI filter can automatically sanitize your data in a scalable manner when you archive data in HDF5.
   It can save a lot of space by storing only models, not real data.
+  
+  HDF5 AI Filter can 
+  * store everything in hierarchy including algorithms to use and learned models.
+  * link to the raw data for provenance.
+  * set a time to remove raw data and a accuracy to prune models.
+  * run several ML algorithms in parallel according to the pre-set hierarchy.
 
 ## Reference
 * [Shrink floating point format to accelerate DNN training](https://www.hpcwire.com/2019/04/15/bsc-researchers-shrink-floating-point-formats-to-accelerate-deep-neural-network-training/) 

@@ -24,7 +24,7 @@ It also hosts sample AI data / model files in HDF5.
   * store everything in hierarchy including algorithms to use and learned models.
   * link to the raw data for provenance.
   * set a time to remove raw data and a desired accuracy threshold to prune models.
-  * run several ML algorithms in parallel according to the pre-set hierarchy.
+  * run several ML algorithms in parallel according to the HDF5's group hierarchy.
 
 ## Reference
 * [Shrink floating point format to accelerate DNN training](https://www.hpcwire.com/2019/04/15/bsc-researchers-shrink-floating-point-formats-to-accelerate-deep-neural-network-training/) 

@@ -33,3 +33,4 @@ It also hosts sample AI data / model files in HDF5.
 * [Switch Transformer](https://arxiv.org/abs/2101.03961)
 * https://docs.nersc.gov/machinelearning/benchmarks/
 * https://semiengineering.com/the-best-ai-edge-inference-benchmark/
+* [REMOTE PATHOLOGICAL GAIT CLASSIFICATION SYSTEM](https://arxiv.org/pdf/2105.01634.pdf)

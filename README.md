@@ -35,3 +35,4 @@ It also hosts sample AI data / model files in HDF5.
 * https://semiengineering.com/the-best-ai-edge-inference-benchmark/
 * [REMOTE PATHOLOGICAL GAIT CLASSIFICATION SYSTEM](https://arxiv.org/pdf/2105.01634.pdf) (@mfolk)
 * [ai.gov](https://www.ai.gov/)
+* [SpaceML](https://earthdata.nasa.gov/learn/articles/spaceml)

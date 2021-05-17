@@ -36,3 +36,6 @@ It also hosts sample AI data / model files in HDF5.
 * [REMOTE PATHOLOGICAL GAIT CLASSIFICATION SYSTEM](https://arxiv.org/pdf/2105.01634.pdf) (@mfolk)
 * [ai.gov](https://www.ai.gov/)
 * [SpaceML](https://earthdata.nasa.gov/learn/articles/spaceml)
+* [Mathematics for Machine Learning](https://mml-book.github.io/)
+* [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/index.html)
+* [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/)

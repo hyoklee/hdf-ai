@@ -3,6 +3,10 @@
 This is a central hub for exchanging AI solutions in HDF5.
 It also hosts sample AI data / model files in HDF5.
 
+## How to Archive Bigdata AI-ready
+ * Save metadata with data - algorithms and their versions used, model parameters, authors, etc.  
+ * Save data in hiearchy with groups.
+
 ## Data
 * [Cat vs. Non-Cat](https://www.floydhub.com/deeplearningai/datasets/cat-vs-noncat/1/train_catvnoncat.h5)
 * [Core ML Specification](https://apple.github.io/coremltools/coremlspecification/)

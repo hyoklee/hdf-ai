@@ -7,7 +7,7 @@ It also hosts sample AI data / model files in HDF5.
 
 ### Make Bigdata AI-ready using HDF5
  * Save metadata with data - algorithms and their versions used, model parameters, authors, etc.  
- * Save data in hiearchy with groups.
+ * Save training / model / testing data in hiearchy with groups.
 
 ### Reduce Bigdata Storage using HDF5 AI Filter
 

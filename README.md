@@ -5,11 +5,11 @@ It also hosts sample AI data / model files in HDF5.
 
 ## Ideas
 
-### Archive Bigdata AI-ready using HDF5
+### Make Bigdata AI-ready using HDF5
  * Save metadata with data - algorithms and their versions used, model parameters, authors, etc.  
  * Save data in hiearchy with groups.
 
-### Create AI-driven HDF5 Compression Filter
+### Reduce Bigdata in HDF5 using AI-driven HDF5 Compression Filter
 
 Filtering Bigdata with AI is a solution to reduce the burden of managing a large amount of training and testing data.
 

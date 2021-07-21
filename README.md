@@ -22,6 +22,14 @@ Filtering Bigdata with AI is a solution to reduce the burden of managing a large
   * set a time to remove raw data and a desired accuracy threshold to prune models.
   * run several ML algorithms in parallel according to the HDF5's group hierarchy.
 
+## FAQ
+
+  * What is H5AI API? This is a high level API that can perform I/O efficient AI tasks for HDF5 data.
+  
+## User Guide
+
+  * H5AI Reference Manual
+
 ## Data
 * [Cat vs. Non-Cat](https://www.floydhub.com/deeplearningai/datasets/cat-vs-noncat/1/train_catvnoncat.h5)
 * [Core ML Specification](https://apple.github.io/coremltools/coremlspecification/)

@@ -57,3 +57,4 @@ Filtering Bigdata with AI is a solution to reduce the burden of managing a large
 * [Mathematics for Machine Learning](https://mml-book.github.io/)
 * [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/index.html)
 * [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/)
+* [Applied ML](https://github.com/eugeneyan/applied-ml)

@@ -44,6 +44,7 @@ Filtering Bigdata with AI is a solution to reduce the burden of managing a large
 * [Kubeflow HOW-TO](https://towardsdatascience.com/kubeflow-how-to-install-and-launch-kubeflow-on-your-local-machine-e0d7b4f7508f)
 * [Keras Spark Rossmann Run Example](https://github.com/horovod/horovod/blob/master/examples/spark/keras/keras_spark_rossmann_run.py)
 * [Deep Learning IO Benchmark](https://github.com/hariharan-devarajan/dlio_benchmark)
+* [FlexFlow](https://github.com/flexflow/FlexFlow)
 
 
 ## Reference

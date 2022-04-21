@@ -64,3 +64,5 @@ Filtering Bigdata with AI is a solution to reduce the burden of managing a large
 * [Applied ML](https://github.com/eugeneyan/applied-ml)
 * [A Review of Earth AI](https://www.sciencedirect.com/science/article/pii/S0098300422000036)
 * [AI Builder in Power Platform](https://docs.microsoft.com/en-us/ai-builder/)
+* [Intel oneAPI AI Analytics Toolkit](https://www.intel.com/content/www/us/en/developer/tools/oneapi/ai-analytics-toolkit.html)
+

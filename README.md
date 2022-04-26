@@ -65,4 +65,5 @@ Filtering Bigdata with AI is a solution to reduce the burden of managing a large
 * [A Review of Earth AI](https://www.sciencedirect.com/science/article/pii/S0098300422000036)
 * [AI Builder in Power Platform](https://docs.microsoft.com/en-us/ai-builder/)
 * [Intel oneAPI AI Analytics Toolkit](https://www.intel.com/content/www/us/en/developer/tools/oneapi/ai-analytics-toolkit.html)
+* [Open Catalyst 2020 (OC20) Dataset](https://github.com/Open-Catalyst-Project/ocp/blob/main/DATASET.md) in LMDB format for Caffe
 

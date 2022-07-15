@@ -68,4 +68,4 @@ Filtering Bigdata with AI is a solution to reduce the burden of managing a large
 * [Open Catalyst 2020 (OC20) Dataset](https://github.com/Open-Catalyst-Project/ocp/blob/main/DATASET.md) in LMDB format for Caffe
 * [SambaNova AI](https://sambanova.ai/)
 * [Horovod](https://github.com/horovod/horovod)
-
+* [DeepHyper](https://deephyper.readthedocs.io/en/latest/)

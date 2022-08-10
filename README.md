@@ -45,6 +45,7 @@ Filtering Bigdata with AI is a solution to reduce the burden of managing a large
 * [Keras Spark Rossmann Run Example](https://github.com/horovod/horovod/blob/master/examples/spark/keras/keras_spark_rossmann_run.py)
 * [Deep Learning IO Benchmark](https://github.com/hariharan-devarajan/dlio_benchmark)
 * [FlexFlow](https://github.com/flexflow/FlexFlow)
+* [parallelformers](https://github.com/tunib-ai/parallelformers)
 
 
 ## Reference

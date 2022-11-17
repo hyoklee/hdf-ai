@@ -46,7 +46,7 @@ Filtering Bigdata with AI is a solution to reduce the burden of managing a large
 * [Deep Learning IO Benchmark](https://github.com/hariharan-devarajan/dlio_benchmark)
 * [FlexFlow](https://github.com/flexflow/FlexFlow)
 * [parallelformers](https://github.com/tunib-ai/parallelformers)
-
+* [Keras/TensorFlow - Save Model in HDF5](https://www.tensorflow.org/guide/keras/save_and_serialize)
 
 ## Reference
 * [Shrink floating point format to accelerate DNN training](https://www.hpcwire.com/2019/04/15/bsc-researchers-shrink-floating-point-formats-to-accelerate-deep-neural-network-training/) 

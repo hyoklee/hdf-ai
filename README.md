@@ -38,6 +38,7 @@ Filtering Bigdata with AI is a solution to reduce the burden of managing a large
   * [textgenrnn_weights.hdf5](https://github.com/minimaxir/textgenrnn/blob/master/textgenrnn/textgenrnn_weights.hdf5)
 * [Face Emotion Recognition](https://analyticsindiamag.com/face-emotion-recognizer-in-6-lines-of-code/)
 * [A Deep Learning-Based Hybrid Model of Global Terrestrial Evaporation](https://zenodo.org/record/5220753#.YeC2bf7MLIU)
+* [JFT-3B](https://paperswithcode.com/dataset/jft-3b)
 
 ## Code
 * [Deep Learning for Climiate Modeling Data](https://github.com/azrael417/ClimDeepLearn): specifically, [data_helpers.py](https://github.com/azrael417/ClimDeepLearn/blob/distributed/semanticsegm/utils/data_helpers.py)

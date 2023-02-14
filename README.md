@@ -6,7 +6,8 @@ It also hosts sample AI data / model files in HDF5.
 ## Ideas
 
 ### Make Bigdata AI-ready using HDF5
- * Save metadata with data - algorithms and their versions used, model parameters, authors, etc.  
+ * Save metadata with data 
+   * algorithms and their versions used, model parameters, authors, etc.  
  * Save training / model / testing data in hiearchy with groups.
  * Save knowledge graph (semantic network) in HDF5.
 

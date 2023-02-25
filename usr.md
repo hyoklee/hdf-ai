@@ -1,10 +1,17 @@
 # HAL User Guide
 
-## Command Line Tools
+## Command Line Tool
 
-hal_train -stat -m model -i in.hai -o model.hai
-hal_test -stat -m model -i model.hai -o out.hai
-hal
+Train
+```
+hal train [-stat] -i in.hai -m model.hai
+```
+
+Test
+```
+hal test [-stat] -m model.hai [-o out.hai]
+```
+
 
 
 

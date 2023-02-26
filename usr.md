@@ -4,13 +4,14 @@
 
 Train
 ```
-hal train [-stat] -i in.hai -m model.hai
+hal train [-stat] -i in.hal -m model.hal
 ```
 
 Test
 ```
-hal test [-stat] -m model.hai [-o out.hai]
+hal test [-stat] -m model.hal [-o out.hal]
 ```
+
 
 
 

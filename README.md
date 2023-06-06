@@ -75,3 +75,4 @@ Filtering Bigdata with AI is a solution to reduce the burden of managing a large
 * [DeepHyper](https://deephyper.readthedocs.io/en/latest/)
 * [sits](https://e-sensing.github.io/sitsbook/index.html)
 * [Drake](https://drake.mit.edu)
+* [ZSTD in training mode](http://facebook.github.io/zstd/#small-data)

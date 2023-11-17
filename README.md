@@ -6,6 +6,7 @@ It also hosts sample AI data / model files in HDF5.
 ## Ideas
 
 ### Make Bigdata AI-ready using HDF5
+
  * Save metadata with data 
    * algorithms and their versions used, model parameters, authors, etc.  
  * Save training / model / testing data in hiearchy with groups.
@@ -52,6 +53,7 @@ Filtering Bigdata with AI is a solution to reduce the burden of managing a large
 * [flowEQ](https://github.com/csteinmetz1/flowEQ) = MATLAB + Python (Keras)
 
 ## Reference
+* [GraphCast](https://deepmind.google/discover/blog/graphcast-ai-model-for-faster-and-more-accurate-global-weather-forecasting/)
 * [Shrink floating point format to accelerate DNN training](https://www.hpcwire.com/2019/04/15/bsc-researchers-shrink-floating-point-formats-to-accelerate-deep-neural-network-training/) 
 * [h5cpp](http://h5cpp.org/)
 * [bfloat16](https://en.wikipedia.org/wiki/Bfloat16_floating-point_forma)

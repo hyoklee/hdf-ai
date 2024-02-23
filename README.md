@@ -23,7 +23,7 @@ Filtering Bigdata with AI is a solution to reduce the burden of managing a large
   * store everything in hierarchy including algorithms to use and learned models.
   * link to the raw data for provenance.
   * set a time to remove raw data and a desired accuracy threshold to prune models.
-  * run several ML algorithms in parallel according to the HDF5's group hierarchy.
+  * run several ML algorithms in parallel according to the HDF's group hierarchy.
 
 ## FAQ
 

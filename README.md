@@ -1,25 +1,25 @@
 # HDF-AI Tools and Information Center
 
-This is a central hub for exchanging AI solutions in HDF5.
-It also hosts sample AI data / model files in HDF5.
+This is a central hub for exchanging AI solutions in HDF.
+It also hosts sample AI data / model files in HDF.
 
 ## Ideas
 
-### Make Bigdata AI-ready using HDF5
+### Make Bigdata AI-ready using HDF
 
  * Save metadata with data 
    * algorithms and their versions used, model parameters, authors, etc.  
  * Save training / model / testing data in hiearchy with groups.
  * Save knowledge graph (semantic network) in HDF5.
 
-### Reduce Bigdata Storage using HDF5 AI Filter
+### Reduce Bigdata Storage using HDF AI Filter
 
 Filtering Bigdata with AI is a solution to reduce the burden of managing a large amount of training and testing data.
 
-  HDF5 AI filter can automatically sanitize your data in a scalable manner when you archive data in HDF5.
+  HDF AI filter can automatically sanitize your data in a scalable manner when you archive data in HDF.
   It can save a lot of space by storing only models, not real data.
   
-  HDF5 AI Filter can 
+  HDF AI Filter can 
   * store everything in hierarchy including algorithms to use and learned models.
   * link to the raw data for provenance.
   * set a time to remove raw data and a desired accuracy threshold to prune models.
@@ -27,11 +27,11 @@ Filtering Bigdata with AI is a solution to reduce the burden of managing a large
 
 ## FAQ
 
-  * What is H5AI API? This is a high level API that can perform I/O efficient AI tasks for HDF5 data.
+  * What is HAI API? This is a high level API that can perform I/O efficient AI tasks for HDF data.
   
 ## User Guide
 
-  * H5AI Reference Manual
+  * HAI Reference Manual
 
 ## Data
 * [Cat vs. Non-Cat](https://www.floydhub.com/deeplearningai/datasets/cat-vs-noncat/1/train_catvnoncat.h5)

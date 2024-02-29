@@ -37,6 +37,7 @@ Filtering Bigdata with AI is a solution to reduce the burden of managing a large
 * [Cat vs. Non-Cat](https://www.floydhub.com/deeplearningai/datasets/cat-vs-noncat/1/train_catvnoncat.h5)
 * [Core ML Specification](https://apple.github.io/coremltools/coremlspecification/)
 * [Hypersim](https://github.com/apple/ml-hypersim)
+* [Megatron-LM](https://github.com/NVIDIA/Megatron-LM/tree/main/tools/retro)
 * [Joke Generator](https://info.microsoft.com/ww-Thankyou-ADeepDiveintoServerlessApplications.html) (Jump to 14:40 in the video.)
   * [textgenrnn_weights.hdf5](https://github.com/minimaxir/textgenrnn/blob/master/textgenrnn/textgenrnn_weights.hdf5)
 * [Face Emotion Recognition](https://analyticsindiamag.com/face-emotion-recognizer-in-6-lines-of-code/)

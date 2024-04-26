@@ -45,6 +45,7 @@ Filtering Bigdata with AI is a solution to reduce the burden of managing a large
 * [JFT-3B](https://paperswithcode.com/dataset/jft-3b)
 
 ## Code
+* [GeoWatch](https://gitlab.kitware.com/computer-vision/geowatch)
 * [safetensors](https://github.com/huggingface/safetensors)
 * [Croissant](https://github.com/mlcommons/croissant)
 * [GraphCast](https://github.com/google-deepmind/graphcast)

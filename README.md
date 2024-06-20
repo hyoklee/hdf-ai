@@ -7,7 +7,7 @@ It also hosts sample AI data / model files in HDF.
 
 ### Make Bigdata AI-ready using HDF
 
- * Save metadata with data 
+ * Save metadata with data.
    * algorithms and their versions used, model parameters, authors, etc.  
  * Save training / model / testing data in hiearchy with groups.
  * Save knowledge graph (semantic network) in HDF.

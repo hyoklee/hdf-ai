@@ -27,7 +27,7 @@ Filtering Bigdata with AI is a solution to reduce the burden of managing a large
 
 ## FAQ
 
-  * What is HAI API? This is a high level API that can perform I/O efficient AI tasks for HDF data.
+  * What is HAI API? This is a high level API that can run I/O-efficient AI tasks for HDF data.
   
 ## User Guide
 

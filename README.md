@@ -5,6 +5,12 @@ It also hosts sample AI data / model files in HDF.
 
 ## Ideas
 
+### Interact in Natural Langauge with Data in HDF
+
+  * Upload HDF files as source.
+  * Query HDF contents in Natural Langauge.
+  * Search, filter, and create image.
+
 ### Make Bigdata AI-ready using HDF
 
  * Save metadata with data.

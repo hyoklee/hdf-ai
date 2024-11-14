@@ -3,7 +3,9 @@
 This is a central hub for exchanging AI solutions in HDF.
 It also hosts sample AI data / model files in HDF.
 
-## Ideas
+## Simplify Your AI Workflow and Data Management
+
+HDF-AI is an ideal solution for managing all your AI data - from raw training data to model data.
 
 ### Query HDF in Natural Langauge
 

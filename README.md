@@ -72,6 +72,7 @@ Filtering Bigdata with AI is a solution to reduce the burden of managing a large
 * [flowEQ](https://github.com/csteinmetz1/flowEQ) = MATLAB + Python (Keras)
 
 ## Reference
+* [Titans](https://arxiv.org/pdf/2501.00663v1)
 * [GraphCast](https://deepmind.google/discover/blog/graphcast-ai-model-for-faster-and-more-accurate-global-weather-forecasting/)
 * [Shrink floating point format to accelerate DNN training](https://www.hpcwire.com/2019/04/15/bsc-researchers-shrink-floating-point-formats-to-accelerate-deep-neural-network-training/) 
 * [h5cpp](http://h5cpp.org/)

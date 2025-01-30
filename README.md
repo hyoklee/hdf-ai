@@ -53,6 +53,7 @@ Filtering Bigdata with AI is a solution to reduce the burden of managing a large
 * [JFT-3B](https://paperswithcode.com/dataset/jft-3b)
 
 ## Code
+* [hle](https://github.com/centerforaisafety/hle)
 * [DeepSeek](https://github.com/deepseek-ai)
 * [llama-gguf-optimize](https://github.com/robbiemu/llama-gguf-optimize)
 * [AnnData](https://anndata.readthedocs.io/en/latest/fileformat-prose.html)

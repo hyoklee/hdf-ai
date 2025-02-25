@@ -53,6 +53,7 @@ Filtering Bigdata with AI is a solution to reduce the burden of managing a large
 * [JFT-3B](https://paperswithcode.com/dataset/jft-3b)
 
 ## Code
+* [MILVUS](https://github.com/milvus-io/milvus)
 * [vLLM](https://github.com/vllm-project/)
 * [Together](https://github.com/togethercomputer)
 * [hle](https://github.com/centerforaisafety/hle)

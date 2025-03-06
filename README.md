@@ -7,11 +7,12 @@ It also hosts sample AI data / model files in HDF.
 
 HDF-AI is an ideal solution for managing all your AI data - from raw training data to model data.
 
-### Query HDF in Natural Langauge
+### Query HDF in Natural Langauge / Image / Sound / Video
 
   * Upload HDF file(s) as source for LLM.
   * Query HDF contents in Natural Langauge.
   * Manipulate data. (e.g., Create PNG image from /g1/dset1 using rainbow palette)
+  * Find a similar dataset given the image, sound, and video
 
 ### Make Bigdata AI-ready using HDF
 
@@ -53,6 +54,7 @@ Filtering Bigdata with AI is a solution to reduce the burden of managing a large
 * [JFT-3B](https://paperswithcode.com/dataset/jft-3b)
 
 ## Code
+* [NotaGen](https://github.com/ElectricAlexis/NotaGen)
 * [anything-llm](https://github.com/Mintplex-Labs/anything-llm)
 * [MILVUS](https://github.com/milvus-io/milvus)
 * [vLLM](https://github.com/vllm-project/)

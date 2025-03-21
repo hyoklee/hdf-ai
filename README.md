@@ -43,6 +43,7 @@ Filtering Bigdata with AI is a solution to reduce the burden of managing a large
   * HAI Reference Manual
 
 ## Data
+* [ARC-AGI](https://github.com/fchollet/ARC-AGI/)
 * [Cat vs. Non-Cat](https://www.floydhub.com/deeplearningai/datasets/cat-vs-noncat/1/train_catvnoncat.h5)
 * [Core ML Specification](https://apple.github.io/coremltools/coremlspecification/)
 * [Hypersim](https://github.com/apple/ml-hypersim)

@@ -81,6 +81,7 @@ Filtering Bigdata with AI is a solution to reduce the burden of managing a large
 * [flowEQ](https://github.com/csteinmetz1/flowEQ) = MATLAB + Python (Keras)
 
 ## Reference
+* [PowerShell AIShell](https://github.com/PowerShell/AIShell)
 * [Model Leaderboard](https://scale.com/leaderboard)
 * [AI Alliance](https://thealliance.ai/)
 * [Ai2](https://allenai.org/)

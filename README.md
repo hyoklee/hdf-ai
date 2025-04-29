@@ -42,6 +42,10 @@ Filtering Bigdata with AI is a solution to reduce the burden of managing a large
 
   * HAI Reference Manual
 
+## Benchmark
+
+* [PHYBench](https://arxiv.org/abs/2504.16074)
+
 ## Data
 * [ARC-AGI](https://github.com/fchollet/ARC-AGI/)
 * [Cat vs. Non-Cat](https://www.floydhub.com/deeplearningai/datasets/cat-vs-noncat/1/train_catvnoncat.h5)

@@ -43,7 +43,7 @@ Filtering Bigdata with AI is a solution to reduce the burden of managing a large
   * HAI Reference Manual
 
 ## Benchmark
-
+* [CyBench](https://cybench.github.io)
 * [PHYBench](https://arxiv.org/abs/2504.16074)
 
 ## Data
@@ -59,6 +59,10 @@ Filtering Bigdata with AI is a solution to reduce the burden of managing a large
 * [JFT-3B](https://paperswithcode.com/dataset/jft-3b)
 
 ## Code
+* [LLM Symbolic Regression](https://github.com/deep-symbolic-mathematics/LLM-SR)
+* [Spider 2 SQL](https://spider2-sql.github.io/)
+* [TA-STVG](https://github.com/HengLan/TA-STVG)
+* [AFlow](https://github.com/FoundationAgents/AFlow)
 * [cuDNN](https://docs.nvidia.com/cudnn/index.html)
 * [NotaGen](https://github.com/ElectricAlexis/NotaGen)
 * [anything-llm](https://github.com/Mintplex-Labs/anything-llm)
@@ -83,6 +87,7 @@ Filtering Bigdata with AI is a solution to reduce the burden of managing a large
 * [parallelformers](https://github.com/tunib-ai/parallelformers)
 * [Keras/TensorFlow - Save Model in HDF5](https://www.tensorflow.org/guide/keras/save_and_serialize)
 * [flowEQ](https://github.com/csteinmetz1/flowEQ) = MATLAB + Python (Keras)
+
 
 ## Reference
 * [PowerShell AIShell](https://github.com/PowerShell/AIShell)

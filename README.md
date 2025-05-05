@@ -90,6 +90,7 @@ Filtering Bigdata with AI is a solution to reduce the burden of managing a large
 
 
 ## Reference
+* [A Survey of AI Agent Protocols](https://arxiv.org/pdf/2504.16736)
 * [PowerShell AIShell](https://github.com/PowerShell/AIShell)
 * [Model Leaderboard](https://scale.com/leaderboard)
 * [AI Alliance](https://thealliance.ai/)

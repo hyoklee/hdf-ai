@@ -65,6 +65,7 @@ AI tasks for HDF data.
 * [JFT-3B](https://paperswithcode.com/dataset/jft-3b)
 
 ## Code
+* [MathDLBookCode Synchrnous Distributed Gradient Descent with MPI](https://github.com/MathDL/MathDLBookCode/blob/main/SynchronousDistributed_GD_MPI.py)
 * [LLM Symbolic Regression](https://github.com/deep-symbolic-mathematics/LLM-SR)
 * [Spider 2 SQL](https://spider2-sql.github.io/)
 * [TA-STVG](https://github.com/HengLan/TA-STVG)

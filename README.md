@@ -3,50 +3,6 @@
 This is a central hub for exchanging AI solutions in HDF.
 It also hosts sample AI data / model files in HDF.
 
-## Simplify Your AI Workflow and Data Management
-
-HDF-AI is an ideal solution for managing all your AI data -
-from raw training data to model data.
-
-### Query HDF in Natural Langauge / Image / Sound / Video
-
-  * Upload HDF file(s) as source for LLM.
-  * Query HDF contents in Natural Langauge.
-  * Manipulate data. (e.g., Create a PNG image from `/g1/dset1`)
-  * Find a similar dataset given the image, sound, and video.
-
-### Make Bigdata AI-ready using HDF
-
- * Save metadata with data.
-   * algorithms and their versions used, model parameters, authors, etc.  
- * Save training / model / testing data in hiearchy with groups.
- * Save knowledge graph (semantic network) in HDF.
-
-### Reduce Bigdata Storage using HDF AI Filter
-
-Filtering Bigdata with AI is a solution to reduce the burden of managing
-a large amount of training/testing & model data.
-
-  HDF AI filter can automatically sanitize your data in a scalable manner
-  when you archive data in HDF.
-  It can save a lot of space by storing only models, not real data.
-  
-  HDF AI Filter can 
-  * store everything in hierarchy including algorithms to use and
-  learned models.
-  * link to the raw data for provenance.
-  * set a time to remove raw data and a desired accuracy threshold to
-  prune models.
-  * run several ML algorithms in parallel according to HDF group hierarchy.
-
-## FAQ
-
-  * What is HAI API? This is a high level API that can run I/O-efficient \
-AI tasks for HDF data.
-  
-## User Guide
-
-  * HAI Reference Manual
 
 ## Benchmark
 * [CyBench](https://cybench.github.io)
